@@ -1,7 +1,7 @@
 {
-  "name": "validador",
+  "name": "@danielgguerra/validador",
   "version": "1.0.0",
-  "description": "Validor de CNPJ e CPF",
+  "description": "Validador de CNPJ e CPF",
   "main": "src/index.ts",
   "scripts": {
     "clean": "rimraf lib",
